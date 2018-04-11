@@ -2,9 +2,9 @@
 
 .visible
 {
-    padding: 3vh;
+   ;
     background-color: silver;
-    width: 5vh;
+
     position: fixed;
     bottom:1vh;
     right:2vh;
@@ -16,6 +16,14 @@
 .notvisible
 {
     display: none;
+
+
+}
+
+#kox a
+{
+    display: block;
+    padding:3vh;
 
 
 }
